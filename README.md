@@ -6,7 +6,7 @@
 
 
 
-<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fsoftware-engineering%2Fwhat-does-a-coder-do%2F&psig=AOvVaw2Em5g_b5Eq_PTnP7YkVRjL&ust=1737879951433000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICh_bq5kIsDFQAAAAAdAAAAABA](https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg)R" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
+<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://logopond.com/logos/b4f4918b027ac2801e051ef9f44b44c9.png" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >

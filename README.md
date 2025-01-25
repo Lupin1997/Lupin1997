@@ -6,7 +6,7 @@
 
 
 
-<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://www.bing.com/th/id/OGC.bfe7c3ec69bf379f62a5de6a34acdc5d?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1400%2f1*qdAW1TjCN57h1lbuuzvchg.gif&ehk=w7OIa913DGrDOfbARBfao2orIGNsejbu%2fLu1qfTbQcM%3d" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
+<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="'https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
@@ -66,7 +66,7 @@
 
 
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lupin1997&" alt="lupin1997"  /></p></div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lupin1997&" alt="lupin1997"  /></p></div>
 
   <div style="display: flex; flex-direction:"row"; align-items: center; justify-content: center;" width="100%">
         <img style="display:'block';" src="https://github-readme-stats.vercel.app/api?username=lupin1997&show_icons=true&bg_color=00000000" alt='' />
@@ -75,12 +75,12 @@
 
 
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; margin:'auto';">
+<!--<div align="center" style="display: flex; align-items: center; justify-content: center; margin:'auto';">
    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
     <p><a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a></p>
    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-</div>
+</div> -->
 
 
 
